@@ -16,6 +16,7 @@
     "@strapi/strapi": "4.11.0",
     "better-sqlite3": "8.0.1",
     "pg": "^8.11.0",
+    "postgres": "^3.3.5",
     "stripe": "^12.9.0"
   },
   "author": {
