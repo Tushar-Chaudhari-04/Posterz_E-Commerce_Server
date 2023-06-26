@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Posterz E-Commerce Website Flow##
+###Posterz E-Commerce Website Flow##
 
 **1. Posterz Landing Page**
 ![Posterz Landing Page](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632363/Posters%20ScreenShots/Landing_Page_y25xuk.png "Posterz Landing Page")
