@@ -1,57 +1,43 @@
-# 🚀 Getting started with Strapi
+# Getting Started with Create React App
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `develop`
+##Posterz E-Commerce Website Flow##
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+**1. Posterz Landing Page**
+![Posterz Landing Page](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632363/Posters%20ScreenShots/Landing_Page_y25xuk.png "Posterz Landing Page")
 
-```
-npm run develop
-# or
-yarn develop
-```
+**2.Shop By Category in Landing Page**
+![Shop By Category](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632347/Posters%20ScreenShots/Shop_by_category_gebmee.png "Shop By Category")
 
-### `start`
+**3.Top Products in Landing Page**
+![Shop By Top Products](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632350/Posters%20ScreenShots/products_LP_tbnexh.png "Shop By Top Products")
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+**4.Category in Collection Page**
+![Shop By Category in Collection](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632347/Posters%20ScreenShots/collection_page_iyoqjn.png "Shop By Category in Collection")
 
-```
-npm run start
-# or
-yarn start
-```
+**5.Category With Sorting in Collection page**
+![Category With Sorting](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632351/Posters%20ScreenShots/Collection_with_Sorting_sj9tiq.png "Category With Sorting")
 
-### `build`
+**6.Products detail Page**
+![Products Detail Page](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632353/Posters%20ScreenShots/Product_Details_Page_aqvpgz.png  "Products Detail Page")
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
+**7.Shopping Cart Page**
+![Shopping Cart Page](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632345/Posters%20ScreenShots/Shopping_Cart_kcdbvy.png 
+"Shopping Cart Page")
 
-```
-npm run build
-# or
-yarn build
-```
+**8.Stripe Payment Gateway**
+![Stripe Payment Gateway](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632345/Posters%20ScreenShots/Stripe_Payment_Gateway_qzbeua.png
+"Stripe Payment Gateway")
 
-## ⚙️ Deployment
+**9.Stripe Payment Success**
+![Stripe Payment Success](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632336/Posters%20ScreenShots/Payment_Successfully_ho1pt2.png
+"Stripe Payment Success")
 
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
+**10.Stripe Payment Failure**
+![Stripe Payment Failure](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632335/Posters%20ScreenShots/Payment_Failed_Page_wyooar.png
+"Stripe Payment Failure")
 
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+**10.Posterz Footer**
+![Posterz Footer*](https://res.cloudinary.com/dchyp1crz/image/upload/v1687632335/Posters%20ScreenShots/footer_n426ni.png 
+"Posterz Footer*")
